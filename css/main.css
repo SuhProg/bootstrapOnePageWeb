@@ -54,7 +54,7 @@
 
 .team {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: 25% 25% 25% 25%;
   width: 50%;
   margin-right: auto;
   margin-left: auto;
