@@ -1,11 +1,26 @@
 html {
   scroll-behavior: smooth;
 }
+
+.body-bg{
+  background-image: linear-gradient(to right, #be93c5 , #7bc6cc);
+}
+
+.display-4 {
+  color: #7bc6cc;
+}
+
 .nav-item{
   padding-left: 20px;
 }
 .jumb{
   padding-bottom: 70px;
+  margin-right: 350px;
+}
+
+.presale{
+  padding: 30px;
+  border: 3px solid #be93c5;
 }
 
 .btn {
